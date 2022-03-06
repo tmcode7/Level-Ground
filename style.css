@@ -1,0 +1,186 @@
+.navbar{
+    margin: 0;
+    padding: 0;
+    height: 30px;
+    list-style: none;
+    text-align: left;
+    background-color: gray;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+}
+
+#top {
+    width: 100%;
+    position: relative;
+}
+
+.navbar li {
+    float: none;
+    display: inline-block;
+}
+
+.navbar button {
+    float: right;
+    margin-top: -36px;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.logo {
+    width: 40px;
+    height:30px;
+    position:absolute;
+    left:50%;
+    top:0;
+    content: "";
+    margin-left: -20px;
+    padding-top: 43px;
+}
+
+main {
+    text-align:center;
+    height:300px;
+    padding: 50px 250px 0px 250px;
+    background-color: grey;
+}
+
+section {
+    text-align:center;
+    height:300px;
+}
+
+.why {
+    padding: 50px 250px
+}
+
+.volunteer {
+    padding: 50px 250px
+}
+
+.sectioncontainer {
+    padding: 50px 50px 50px 50px;
+    clear:both;
+    background-color: silver;
+}
+
+.sectioncontainer a {
+    border: 1px solid black;
+    padding: 5px 15px;
+}
+
+.volunteer a {
+    border: 1px solid black;
+    padding: 5px 15px;
+}
+
+.visit {
+    float:left;
+    width: 45%;
+}
+
+.hire {
+    float:right;
+    width: 45%;
+}
+
+.volunteer {
+    clear:both;
+    height: 300px;
+}
+
+.hire img {
+    height: 120px;
+    width: 220px;
+}
+
+.visit img {
+    height: 120px;
+    width: 220px;
+}
+
+
+footer h2 {
+    text-align: right;
+}
+
+.footerlogo {
+    width: 40px;
+    height:30px;
+    float: right;
+    clear: both;
+    margin-top: 13px;
+}
+
+.location {
+    float:right;
+    width: 15%;
+}
+
+.contact {
+    float:none;
+    display: inline-block;
+    width: 20%;
+}
+
+.footercontainer .tax {
+    border-top: 2px black solid;
+    clear: both;
+}
+
+.getintouch h5 {
+    margin-bottom: auto;
+    color: grey;
+}
+
+.getintouch p {
+    color: White;
+}
+
+.contact a {
+    padding-top: 20px;
+}
+
+.location h5 {
+    margin-bottom: auto;
+    clear: both;
+    color: white;
+    font-weight: bold;
+}
+
+button {
+    background-color: white;
+    padding: 5px 15px;
+}
+
+.footnote {
+    display: block;
+    clear: both;
+    border-top: 2px solid white;
+}
+
+.footnote p {
+    display: inline-block;
+    color: White;
+}
+
+footer {
+    background-color: rgb(19, 19, 36);
+    padding: 0px 10px 0px 10px;
+}
+
+a {
+    color: black;
+}
+
+nav a {
+    color: White;
+}
+
+footer a {
+    color: White;
+}
